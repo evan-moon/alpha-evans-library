@@ -244,6 +244,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/memory-fs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/socket-io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/traceroute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/tsconfig/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/webpack-dev-middleware/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/webpack-dev-server/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/개발-책/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -472,6 +473,8 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/yak-shaving/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/orbit/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/orbit-of-planets/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/08/08/tsconfig-compiler-options-type-check/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/07/30/tsconfig-options-root-fields/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/05/07/why-regexp-called-regexp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2020/12/29/2020-retrospective/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2020/12/12/draw-arc-with-svg-clippath/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
