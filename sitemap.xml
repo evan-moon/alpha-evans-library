@@ -28,6 +28,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/categories/programming/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/categories/tutorials/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/categories/web/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/1-일-1-커밋/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/29-살/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/3-way-handshake/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/4-way-handshake/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -224,6 +225,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/tdz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/ted-데이터드리븐/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/ted-인센티브/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/til/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/temporal-dead-zone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/three-js/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -302,6 +304,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/메르센-트위스터/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/메모리-누수/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/메모리구조/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/면접/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/면접준비/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/명령형-프로그래밍/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/모나드/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -400,6 +403,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/질문하는-법/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/집합/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/차트/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/채용/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/책-집필/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/체코-여행/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/취업준비/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -414,6 +418,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/코딩학원/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/퀵정렬/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/큐베이스/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/클론코딩/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/타입스크립트/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/토스/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/토이프로젝트/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -473,6 +478,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/yak-shaving/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/orbit/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/orbit-of-planets/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/09/10/developer-direction-of-effort/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/08/22/tsconfig-compiler-options-modules-and-emit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/08/08/tsconfig-compiler-options-type-check/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/07/30/tsconfig-options-root-fields/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
