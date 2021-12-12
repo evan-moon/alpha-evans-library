@@ -94,6 +94,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/fin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/fmp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/feedback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/finance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/first-meaningful-paint/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/flow-control/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/freedom-responsibility/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -209,6 +210,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/soomgo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/sort-algorithms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/sound-engineering/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/stock-option/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/stop-and-wait/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/story-point/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/synchronous/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -273,6 +275,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/궤도-구현하기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/귀납법/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/글쓰기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/금융/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/기술면접/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/나이퀴스트/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/난수/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -350,6 +353,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/숫자만-골라내기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/스타트업/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/스토리-포인트/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/스톡옵션/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/슬라이딩-윈도우/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/신경/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/알고리즘/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -375,6 +379,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/웹팩/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/이벤트-루프/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/인공-신경망/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/인센티브/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/인터넷/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/자료구조/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/자바스크립트/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -397,6 +402,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/좋은-개발자/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/좋은-설계/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/좋은-팀/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/주식/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/중력/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/중력-구현하기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/지라/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -478,6 +484,7 @@
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/yak-shaving/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/orbit/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/tags/orbit-of-planets/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/12/04/what-is-stock-options/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/10/30/tsconfig-compiler-options-modules-emit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/09/10/developer-direction-of-effort/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://evan-moon.github.io/alpha-evans-library/2021/08/22/tsconfig-compiler-options-modules/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
